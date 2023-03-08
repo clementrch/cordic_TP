@@ -1,2 +1,7 @@
 
 *.txt
+bin/Debug/cordic.exe
+cordic.cbp
+cordic.depend
+cordic.layout
+obj/Debug/main.o
